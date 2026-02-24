@@ -12,11 +12,6 @@ It supports:
 - Theme editing and modern UI styling
 
 ## Demo Mode
-
-Demo mode is triggered by:
-- EXE name containing `demo` (for example `FairCueDemo.exe`), or
-- `FAIRCUE_DEMO_MODE=1`
-
 Current demo policy is embedded in executable code (not controlled by registry values):
 - 14-day trial
 - Max 16 tournament players
