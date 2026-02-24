@@ -18,3 +18,5 @@
   - PDF export
   - Player import/export
   - Custom PDF logo
+
+Full version here https://fogbound7.gumroad.com/l/FairCue
