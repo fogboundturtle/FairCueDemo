@@ -24,3 +24,5 @@ It supports:
   * PDF export
   * Player XLS import/export
   * Custom PDF logo
+
+Full version available at https://fogbound7.gumroad.com/l/FairCue
