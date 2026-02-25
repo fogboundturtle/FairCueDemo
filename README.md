@@ -18,5 +18,9 @@
   - PDF export
   - Player import/export
   - Custom PDF logo
+  - Single and Team League Support
+  - Round Robin Tournament
+  - Stream overlay and Stream companion App
+  - Challonge integration for Single/Double elimination Bracket
 
 Full version here https://fogbound7.gumroad.com/l/FairCue
